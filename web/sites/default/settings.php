@@ -902,4 +902,4 @@ $databases['default']['default'] = array(
   'namespace' => 'Drupal\\mysql\\Driver\\Database\\mysql',
   'autoload' => 'core/modules/mysql/src/Driver/Database/mysql/',
 );
-$settings['config_sync_directory'] = 'sites/default/files/config_9431wqhVADWRmGqKnrKjyxCNqVtaIKzjaYibYRhqau_9-Qr48DgdSW6_gMXEp8p-x7k_ry-dew/sync';
+$settings['config_sync_directory'] = '../conf/';
